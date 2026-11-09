@@ -24,8 +24,8 @@ Eg
 SELECT A,B,C
 WHERE A >B
 ```
-
-
+### Visualization
+<img width="880" height="508" alt="WhatsApp Image 2026-03-10 at 18 29 35" src="https://github.com/user-attachments/assets/e6bf9afa-0faf-4f9a-8258-31c7a08e33b4" />
 
 
     
