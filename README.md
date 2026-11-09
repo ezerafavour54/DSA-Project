@@ -15,3 +15,17 @@ This is my Data Source
 ### Data Cleaning and Preparation
 1. Data Loading and Inspection
 2. Handling Missing Data
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some DAX expressions used during your analysis
+
+Eg
+```
+SELECT A,B,C
+WHERE A >B
+```
+
+
+
+
+    
